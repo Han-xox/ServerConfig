@@ -2,7 +2,7 @@
 # @Author: Han
 # @Date:   2021-01-08 11:20:44
 # @Last Modified by:   Jimin Han
-# @Last Modified time: 2021-01-08 22:49:43
+# @Last Modified time: 2021-01-08 23:52:33
 
 # TODO: server settings
 # export JIMIN_WORK_DIR=
@@ -61,8 +61,8 @@ run_jupyter(){
 }
 
 # docker related
-export JIMIN_DOCKER_NETWOEK="jimin_newtork"
-export JIMIN_DATABASE_NAME="jimin_datebase"
+export JIMIN_DOCKER_NETWOEK="jimin_network"
+export JIMIN_DATABASE_NAME="jimin_database"
 export JIMIN_COMPUTE_NAME="jimin_compute"
 export JIMIN_COMPUTE_IMAGE="jimin/compute"
 
